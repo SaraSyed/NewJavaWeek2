@@ -1,0 +1,18 @@
+
+public class UniqueSum {
+	
+	public int uniquesum(int a, int b, int c) {
+		if (a == b) {
+			return 0;
+		}
+		if (b == c) {
+			return 0;		
+		}
+		if (a == c) {
+			return 0;
+		}
+		
+		else return (a+b+c);
+	}
+
+}

@@ -1,0 +1,28 @@
+import java.util.ArrayList;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//BlackJack blackjack = new BlackJack();
+		//System.out.println(blackjack.blackjack(22,11));
+		
+		//UniqueSum unique = new UniqueSum();
+		//System.out.println(unique.uniqueSum(2, 4, 2));
+		
+		//TooHot toohot = new TooHot();
+		//System.out.println(toohot.tooHot(0, true));
+		
+		Person test = new Person("Lee", 30, "Stunt Man");
+		Person test1 = new Person("Bob", 21, "hello");
+		//test.List(test);
+		test1.List(test1);
+		
+		
+
+
+	}
+	
+}

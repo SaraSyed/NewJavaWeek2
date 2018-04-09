@@ -1,0 +1,33 @@
+import java.util.ArrayList;
+
+public class People {
+
+	String firstName;
+	int age;
+	String jobTitle;
+
+
+	public void Jobs() {
+
+		People p1 = new People("Sara", age, "Developer");
+		//Object person = (firstName, age, jobTitle);
+/*
+		//ArrayList<Object> people = new ArrayList<>();
+		//people.add(firstName, age, jobTitle);
+		//people.add(p2);
+
+		//for (Object object : people) {
+
+			//System.out.println(object);
+*/
+		//}
+
+	}
+
+//	@Override
+	//public String toString() {
+	//	return "First Name: " + firstName + "Age: " + age + "Job Title" + jobTitle; 
+//	}
+
+
+}

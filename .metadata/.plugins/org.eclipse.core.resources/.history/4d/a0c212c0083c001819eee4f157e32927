@@ -1,0 +1,11 @@
+
+public class PersonDetails {
+
+	
+	String firstName;
+	int age;
+	String jobTitle;
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+
+public class PersonDetails {
+
+	
+	String firstName;
+	int age;
+	String jobTitle;
+	
+	public String getfirstName(String firstName) {
+		return firstName;
+	}
+	
+}

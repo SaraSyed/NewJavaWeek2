@@ -1,0 +1,29 @@
+import java.util.ArrayList;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//BlackJack blackjack = new BlackJack();
+		//System.out.println(blackjack.blackjack(22,11));
+		
+		//UniqueSum unique = new UniqueSum();
+		//System.out.println(unique.uniqueSum(2, 4, 2));
+		
+		//TooHot toohot = new TooHot();
+		//System.out.println(toohot.tooHot(0, true));
+		
+		Person p1 = new Person();
+		p1.List("le", 23, "ha");
+		p1.List("bo", 53, "lecta");
+		
+
+		
+		
+
+
+	}
+	
+}

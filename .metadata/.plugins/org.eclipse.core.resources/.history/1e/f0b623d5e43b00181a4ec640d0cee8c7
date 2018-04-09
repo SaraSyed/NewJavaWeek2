@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//BlackJack blkjk = new BlackJack();
+		//System.out.println(blkjk.blackjack(22,11));
+		
+		UniqueSum unique = new UniqueSum();
+		System.out.println(unique.uniquesum(5, 4, 3));
+
+	}
+}
